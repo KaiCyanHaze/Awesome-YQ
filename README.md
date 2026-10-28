@@ -2,9 +2,7 @@
 
 <h1>Awesome YQ</h1>
 
-<p><strong>有 yq 就够了。</strong></p>
-
-<p>一份围绕 yq 的 CC98 帖子收藏，收集提问、讨论、玩梗与创作。</p>
+<p><strong>YQ is all you need.</strong></p>
 
 [![GitHub 收藏](https://img.shields.io/github/stars/KaiCyanHaze/Awesome-YQ?style=flat-square&label=%E6%94%B6%E8%97%8F)](https://github.com/KaiCyanHaze/Awesome-YQ/stargazers)
 [![收录帖子](https://img.shields.io/badge/%E5%B8%96%E5%AD%90-98-blue?style=flat-square)](#index)
@@ -264,3 +262,4 @@
 感谢 CC98 社区的发帖者与参与讨论的朋友。
 
 README 的结构与展示方式参考了 [Awesome-Dexterous-Hands](https://github.com/CyanHaze/Awesome-Dexterous-Hands) 的分类资源清单设计。
+
