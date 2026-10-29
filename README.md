@@ -65,7 +65,7 @@
 | 原始版块 | 帖子数 |
 | --- | ---: |
 | [似水流年](#daily) | 61 |
-| [开怀一笑](#humor) | 18 |
+| [开怀一笑](#humor) | 19 |
 | [游戏广场](#games) | 7 |
 | [校园信息](#campus) | 3 |
 | [动漫讨论](#anime) | 2 |
@@ -154,6 +154,7 @@
 
 ### 开怀一笑
 
+- [我真得狠狠控制yq了](https://www.cc98.org/topic/6677987)
 - [我们身处大yq宇宙](https://www.cc98.org/topic/6677785)
 - [yq 远远比输钱更可怕](https://www.cc98.org/topic/6677770)
 - [yq(一群)npc](https://www.cc98.org/topic/6677768)
