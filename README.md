@@ -148,6 +148,7 @@
 - [苏轼：yqyq](https://www.cc98.org/topic/6677481)
 - [死yq虫子咋那么多](https://www.cc98.org/topic/6677480)
 - [到底是哪个yq](https://www.cc98.org/topic/6677477)
+- [为什么我不喜欢看yq本子](https://www.cc98.org/topic/6677965)
 
 <a id="humor"></a>
 
